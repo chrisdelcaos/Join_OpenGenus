@@ -49,3 +49,4 @@
 47. [DoubleU23](https://github.com/DoubleU23) : FE-Developer with Visions (React/Webpack, NodeJS, VanillaJS, ...)
 48. [Abhishek Jaisingh](https://github.com/abhishekjiitr) : CSE 4th Year, IIT Roorkee, Developer, Competitive Programmer (Python, C++) : @abhishekjiitr
 49. [Ashish Gautam](https://github.com/gautam2705): IT undergrad @BVCOE Delhi, books, python, C++, competitve programmer : @gautam2705
+50. [Christopher Vicuña](https://github.com/chrisdelcaos): Just Another Developer, Open Source Enthusiast, C# + JS = :heart: @chrisdelcaos
